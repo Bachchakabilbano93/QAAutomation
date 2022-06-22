@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;User.java&apos; to &apos;Variables.java&apos;&#x0D;&#x0A;- Original project: &apos;Abir_Self_Prac&apos;&#x0D;&#x0A;- Original element: &apos;User.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Variables.java&apos;" description="Rename compilation unit &apos;User.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{User.java" name="Variables.java" references="false" stamp="1652344842724" version="1.0"/>
+</session>
